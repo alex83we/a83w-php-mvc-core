@@ -6,7 +6,7 @@
  * Time: 10:04
  */
 
-namespace a83w\phpmvc;
+namespace a83w\php-mvc-core;
 
 class View
 {

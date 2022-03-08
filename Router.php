@@ -7,9 +7,9 @@
  * Time: 12:01
  */
 
-namespace a83w\phpmvc;
+namespace a83w\php-mvc-core;
 
-use a83w\phpmvc\exception\NotFoundException;
+use a83w\php-mvc-core\exception\NotFoundException;
 
 class Router
 {
@@ -106,7 +106,7 @@ class Router
         }
         if (is_array($callback)) {
             /**
-             * @var \a83w\phpmvc\Controller
+             * @var \a83w\php-mvc-core\Controller
              */
             $controller = new $callback[0];
             $controller->action = $callback[1];

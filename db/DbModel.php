@@ -6,10 +6,10 @@
  * Time: 11:54
  */
 
-namespace a83w\phpmvc\db;
+namespace a83w\php-mvc-core\db;
 
-use a83w\phpmvc\Application;
-use a83w\phpmvc\Model;
+use a83w\php-mvc-core\Application;
+use a83w\php-mvc-core\Model;
 
 abstract class DbModel extends Model
 {
