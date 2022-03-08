@@ -6,7 +6,7 @@
  * Time: 14:19
  */
 
-namespace app\core;
+namespace a83w\phpmvc;
 
 class Response
 {

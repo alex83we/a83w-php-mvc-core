@@ -6,7 +6,7 @@
  * Time: 19:08
  */
 
-namespace app\core\middlewares;
+namespace a83w\phpmvc\middlewares;
 
 abstract class BaseMiddleware
 {

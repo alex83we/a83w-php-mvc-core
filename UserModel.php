@@ -6,9 +6,9 @@
  * Time: 18:19
  */
 
-namespace app\core;
+namespace a83w\phpmvc;
 
-use app\core\db\DbModel;
+use a83w\phpmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

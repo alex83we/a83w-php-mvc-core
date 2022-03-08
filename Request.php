@@ -7,7 +7,7 @@
  * Time: 12:32
  */
 
-namespace app\core;
+namespace a83w\phpmvc;
 
 class Request
 {

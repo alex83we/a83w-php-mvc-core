@@ -6,9 +6,9 @@
  * Time: 22:02
  */
 
-namespace app\core\form;
+namespace a83w\phpmvc\form;
 
-use app\core\Model;
+use a83w\phpmvc\Model;
 
 class Field
 {

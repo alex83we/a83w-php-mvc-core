@@ -6,9 +6,9 @@
  * Time: 16:45
  */
 
-namespace app\core;
+namespace a83w\phpmvc;
 
-use app\core\middlewares\BaseMiddleware;
+use a83w\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {
@@ -16,7 +16,7 @@ class Controller
     public string $action = '';
 
     /**
-     * @var app\core\middlewares\BaseMiddleware[]
+     * @var a83w\phpmvc\middlewares\BaseMiddleware[]
      */
     protected array $middlewares = [];
 
@@ -36,7 +36,7 @@ class Controller
     }
 
     /**
-     * @return app\core\middlewares\BaseMiddleware[]
+     * @return a83w\phpmvc\middlewares\BaseMiddleware[]
      */
     public function getMiddlewares(): array
     {
