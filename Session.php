@@ -6,7 +6,7 @@
  * Time: 14:35
  */
 
-namespace a83w\php-mvc-core;
+namespace a83w\phpmvc;
 
 class Session
 {

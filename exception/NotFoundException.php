@@ -6,7 +6,7 @@
  * Time: 09:32
  */
 
-namespace a83w\php-mvc-core\exception;
+namespace a83w\phpmvc\exception;
 
 class NotFoundException extends \Exception
 {

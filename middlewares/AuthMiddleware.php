@@ -6,10 +6,10 @@
  * Time: 19:07
  */
 
-namespace a83w\php-mvc-core\middlewares;
+namespace a83w\phpmvc\middlewares;
 
-use a83w\php-mvc-core\Application;
-use a83w\php-mvc-core\exception\ForbiddenException;
+use a83w\phpmvc\Application;
+use a83w\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

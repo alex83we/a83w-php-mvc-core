@@ -6,7 +6,7 @@
  * Time: 20:17
  */
 
-namespace a83w\php-mvc-core;
+namespace a83w\phpmvc;
 
 abstract class Model
 {

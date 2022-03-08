@@ -6,9 +6,9 @@
  * Time: 02:08
  */
 
-namespace a83w\php-mvc-core\db;
+namespace a83w\phpmvc\db;
 
-use a83w\php-mvc-core\Application;
+use a83w\phpmvc\Application;
 
 class Database
 {

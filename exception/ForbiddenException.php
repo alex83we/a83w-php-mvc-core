@@ -6,7 +6,7 @@
  * Time: 19:36
  */
 
-namespace a83w\php-mvc-core\exception;
+namespace a83w\phpmvc\exception;
 
 class ForbiddenException extends \Exception
 {
